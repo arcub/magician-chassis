@@ -22,9 +22,9 @@ The instructions below will show you how to programme the robot.
 
 ## Versioning
 
-* Build Instructions - v1.0 Release - 18th October 2017
-* Electronics Instructions - v1.0 Release - 18th October 2017
-* Programming Instructions - v1.0 Release - 18th October 2017 
+* Build Instructions - v1.1 Release - 21st October 2017
+* Electronics Instructions - v1.1 Release - 21st October 2017
+* Programming Instructions - v1.1 Release - 21st October 2017 
 
 ## Authors
 
