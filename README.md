@@ -20,6 +20,8 @@ The instructions below will show you how to programme the robot.
 
 [Download/View](https://github.com/arcub/magician-chassis/blob/master/worksheets/magician-chassis-programming.pdf) the Programming Instructions
 
+Some cheatsheets can be found for the motor controllers [here](https://github.com/arcub/magician-chassis/tree/master/code).
+
 ## Versioning
 
 * Build Instructions - v1.1 Release - 21st October 2017
